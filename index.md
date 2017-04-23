@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'BYFC Tournament 2017'
 description: null
 image: null
 author: null
