@@ -2,7 +2,7 @@
 layout: post
 title: Registration
 description: Registration information and online registration form
-image: assets/images/pic04.jpg
+image: assets/images/reg-screen.png
 ---
 
 We are pleased to invite you to our annual tournament which will be held at Oakwood Park, Maidstone, Kent ME16 0JP on 10th & 11th June 2017.
