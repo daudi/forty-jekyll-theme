@@ -4,7 +4,7 @@ subtitle: Tournament 2017
 email: webmaster@barmingyouth.co.uk
 description: To find your way around click on Get Started<br /> or use the menu (top right).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.medwayjsna.info" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Beverley Road
 city: Nashville
