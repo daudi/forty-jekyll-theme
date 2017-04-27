@@ -3,7 +3,7 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2017-04-26 22:41:59 
+#### Updated 2017-04-27 18:53:13 
 ### U7 Group 1
  Three groups. QF: Top 2 from each group + the two best third-placed teams. Those 8 teams seeded as below then 1st v 8th, 2nd v 7th, 3rd v 6th, 4th v 5th. SF: QF1 v QF4, QF2 v QF3. Final: SF1 v SF2. Determination of seedings/placings: Points, then goal difference, then goals scored.
 
@@ -151,3 +151,6 @@ title: Saturday am
 |   QF   |  Anchorians Athletic U9   |         |     Coxheath &Farleigh U9      |
 |   QF   |        New Road FC        |         |    Paddock Wood U9 Warriors    |
 
+
+
+<br /><br /><br />
