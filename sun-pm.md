@@ -3,7 +3,7 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2017-04-23 20:55:13 
+#### Updated 2017-04-23 21:52:39 
 ### U18 boys Group 1
  Two groups. SF: 1st Group A v 2nd Group B, 2nd Group A v 1st Group B; Final: SF1 v SF2
 
