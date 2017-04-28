@@ -3,7 +3,11 @@ layout: page
 title: Sunday pm
 ---
 
-#### Updated 2017-04-27 18:59:23 
+#### Updated 2017-04-28 23:47:06 
+
+Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
+
+
 ### U18 boys Group 1
  Two groups. SF: 1st Group A v 2nd Group B, 2nd Group A v 1st Group B; Final: SF1 v SF2
 
