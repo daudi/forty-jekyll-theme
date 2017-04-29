@@ -6,12 +6,12 @@ description: To find your way around click on Get Started<br /> Use the menu (to
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Beverley Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 40 Bridge Mill Way
+city: Maidstone
+state: Kent
+zip_code: ME15 6FD
+country: 
+phone: 07710 425812
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
