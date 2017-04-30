@@ -3,9 +3,11 @@ layout: page
 title: Sunday am
 ---
 
-#### Updated 2017-04-28 23:47:04 
+#### Updated 2017-04-30 10:38:09 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
+
+Click on the results summary to see individual match results.
 
 
 ### U11 Group 1
@@ -54,14 +56,18 @@ Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal diff
 ### U11 knock-out
  
 
-|  type  |           team1            |  score  |            team2             |
-|:------:|:--------------------------:|:-------:|:----------------------------:|
-|   QF   |   Tonbridge Angels U11 X   |         |      Ditton Minors U11B      |
-|   QF   |     Iwade Herons Blues     |         |     Range Rovers FC U11s     |
-|   QF   |    Hempstead Valley U11    |         |      Barming Youth U11       |
-|   QF   | Paddock Wood U11 Predators |         | Maidstone United U11 Rangers |
+|  Type  |            Team 1            |    Score    |            Team 2            |
+|:------:|:----------------------------:|:-----------:|:----------------------------:|
+|   QF   |    Tonbridge Angels U11 X    | 3 &mdash; 1 |      Ditton Minors U11B      |
+|   QF   |      Iwade Herons Blues      | 1 &mdash; 4 |     Range Rovers FC U11s     |
+|   QF   |     Hempstead Valley U11     | 2 &mdash; 2 |      Barming Youth U11       |
+|   QF   |  Paddock Wood U11 Predators  | 2 &mdash; 3 | Maidstone United U11 Rangers |
+|   SF   |    Tonbridge Angels U11 X    | 1 &mdash; 1 | Maidstone United U11 Rangers |
+|   SF   |     Range Rovers FC U11s     | 1 &mdash; 4 |      Barming Youth U11       |
+|   F    | Maidstone United U11 Rangers | 4 &mdash; 1 |      Barming Youth U11       |
 
 
+#### The U11 winner is: Maidstone United U11 Rangers
 ### U13 Group 1
  Two groups. SF: 1st Group A v 2nd Group B, 2nd Group A v 1st Group B; Final: SF1 v SF2
 
@@ -93,10 +99,10 @@ Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal diff
 ### U13 knock-out
  
 
-|  type  |         team1          |  score  |       team2        |
-|:------:|:----------------------:|:-------:|:------------------:|
-|   SF   | Hartley de Sales U13 B |         | APM Holtwood U13 B |
-|   SF   |       Vinters FC       |         | Loose Lions U13 B  |
+|  Type  |         Team 1         |    Score    |       Team 2       |
+|:------:|:----------------------:|:-----------:|:------------------:|
+|   SF   | Hartley de Sales U13 B | 1 &mdash; 4 | APM Holtwood U13 B |
+|   SF   |       Vinters FC       | 3 &mdash; 1 | Loose Lions U13 B  |
 
 
 ### U15 Group 1
@@ -129,10 +135,10 @@ Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal diff
 ### U15 knock-out
  
 
-|  type  |            team1            |  score  |            team2            |
-|:------:|:---------------------------:|:-------:|:---------------------------:|
-|   SF   | Borough Green Juniors U15 A |         | Borough Green Juniors U15 B |
-|   SF   |    Lenham Wanderers U15     |         |      Cray Wanderers FC      |
+|  Type  |           Team 1            |    Score    |           Team 2            |
+|:------:|:---------------------------:|:-----------:|:---------------------------:|
+|   SF   | Borough Green Juniors U15 A | 4 &mdash; 3 | Borough Green Juniors U15 B |
+|   SF   |    Lenham Wanderers U15     | 3 &mdash; 2 |      Cray Wanderers FC      |
 
 
 ### U16 girls Group 1

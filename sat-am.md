@@ -3,9 +3,11 @@ layout: page
 title: Saturday am
 ---
 
-#### Updated 2017-04-29 09:16:22 
+#### Updated 2017-04-29 15:11:02 
 
 Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal difference
+
+Click on the results summary to see individual match results.
 
 
 ### U7 Group 1
@@ -48,7 +50,7 @@ Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal diff
 ### U7 knock-out
  
 
-|  type  |          team1          |    score    |           team2            |
+|  Type  |         Team 1          |    Score    |           Team 2           |
 |:------:|:-----------------------:|:-----------:|:--------------------------:|
 |   QF   |     Larkfield U7 FC     | 1 &mdash; 3 | Barming Youth Sky Blues U7 |
 |   QF   |    Barming Blues U7     | 3 &mdash; 4 |     Kings Hil U7 Colts     |
@@ -99,7 +101,7 @@ Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal diff
 ### U8 knock-out
  
 
-|  type  |         team1         |    score    |          team2           |
+|  Type  |        Team 1         |    Score    |          Team 2          |
 |:------:|:---------------------:|:-----------:|:------------------------:|
 |   QF   |  Hartley de Sales U8  | 4 &mdash; 4 | Phoenix Tigers U8 Sports |
 |   QF   | Maidstone Kestrels U8 | 1 &mdash; 3 | APM Holtwood Rangers U8  |
@@ -148,7 +150,7 @@ Results key: W = won; S = Score draw; N = No-score draw; L = Lost; G = Goal diff
 ### U9 knock-out
  
 
-|  type  |           team1           |    score    |             team2              |
+|  Type  |          Team 1           |    Score    |             Team 2             |
 |:------:|:-------------------------:|:-----------:|:------------------------------:|
 |   QF   |   Rainham Kenilworth U9   | 3 &mdash; 4 | Sittingbourne Lions U9 purples |
 |   QF   | Maidstone United U9 Youth | 3 &mdash; 4 |    Paddock Wood U9 Packers     |
