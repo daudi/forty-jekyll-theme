@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|            team1            |    score    |         team2          |
+|           Team 1            |    Score    |         Team 2         |
 |:---------------------------:|:-----------:|:----------------------:|
 | Borough Green Juniors U15 B | 1 &mdash; 1 |   Cray Wanderers FC    |
 |      Cray Wanderers FC      | 1 &mdash; 0 |   Chatham Town Boys    |

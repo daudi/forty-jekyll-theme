@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1           |    score    |           team2           |
+|          Team 1          |    Score    |          Team 2           |
 |:------------------------:|:-----------:|:-------------------------:|
 | Paddock Wood U9 Warriors | 3 &mdash; 1 | Sittingbourne Athletic U9 |
 | Paddock Wood U9 Warriors | 2 &mdash; 1 |        New Road FC        |

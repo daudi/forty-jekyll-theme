@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |         team2          |
+|         Team 1         |    Score    |         Team 2         |
 |:----------------------:|:-----------:|:----------------------:|
 | Hartley de Sales U13 A | 0 &mdash; 2 |   APM Holtwood U13 B   |
 | Barming Youth Hammers  | 0 &mdash; 0 | Hartley de Sales U13 A |

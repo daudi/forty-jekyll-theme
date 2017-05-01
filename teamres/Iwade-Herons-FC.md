@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |            team2             |
+|          Team 1           |    Score    |            Team 2            |
 |:-------------------------:|:-----------:|:----------------------------:|
 |      Iwade Herons FC      | 0 &mdash; 1 |      Ditton Minors U11B      |
 |      Iwade Herons FC      | 0 &mdash; 4 |    Tonbridge Angels U11 X    |

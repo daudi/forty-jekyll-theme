@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|       team1       |    score    |            team2            |
+|      Team 1       |    Score    |           Team 2            |
 |:-----------------:|:-----------:|:---------------------------:|
 |  Barming Hammers  | 0 &mdash; 2 |   Hartley de Sales U15 B    |
 |  Barming Hammers  | 0 &mdash; 0 |    Tonbridge Angels U15     |

@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |        team2         |
+|         Team 1         |    Score    |        Team 2        |
 |:----------------------:|:-----------:|:--------------------:|
 |       Vinters FC       | 3 &mdash; 0 | Barming Colts U13 Y  |
 |       Vinters FC       | 0 &mdash; 1 | Aylesford Royals U13 |

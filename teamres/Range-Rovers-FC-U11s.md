@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |        team2         |
+|         Team 1         |    Score    |        Team 2        |
 |:----------------------:|:-----------:|:--------------------:|
 |  Range Rovers FC U11s  | 0 &mdash; 1 |    MPE U11 Sports    |
 |  Range Rovers FC U11s  | 1 &mdash; 1 |  Coxheath Spitfires  |

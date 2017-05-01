@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1          |    score    |         team2         |
+|         Team 1          |    Score    |        Team 2         |
 |:-----------------------:|:-----------:|:---------------------:|
 | Paddock Wood U8 Dragons | 1 &mdash; 0 | APM Holtwood U8 Colts |
 |    Meopham Sharks U8    | 1 &mdash; 0 | APM Holtwood U8 Colts |

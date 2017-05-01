@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|        team1         |    score    |            team2            |
+|        Team 1        |    Score    |           Team 2            |
 |:--------------------:|:-----------:|:---------------------------:|
 |  Chatham Town Youth  | 0 &mdash; 2 | Borough Green Juniors U15 A |
 |  Chatham Town Youth  | 0 &mdash; 0 |      Barming Warriors       |

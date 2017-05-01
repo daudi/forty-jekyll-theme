@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1          |    score     |           team2           |
+|         Team 1          |    Score     |          Team 2           |
 |:-----------------------:|:------------:|:-------------------------:|
 | APM Holtwood Rangers U8 | 11 &mdash; 0 |   Chatham Town U8 (CW)    |
 |  Chatham Town U8 (CW)   | 0 &mdash; 9  |   Omega 92 Spartans U8    |

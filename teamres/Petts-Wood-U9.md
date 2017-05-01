@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |             team2              |
+|         Team 1         |    Score    |             Team 2             |
 |:----------------------:|:-----------:|:------------------------------:|
 |      Larkfield FC      | 0 &mdash; 0 |         Petts Wood U9          |
 |     Petts Wood U9      | 1 &mdash; 1 | Sittingbourne Lions U9 purples |

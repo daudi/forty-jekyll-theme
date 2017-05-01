@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |      team2       |
+|          Team 1           |    Score    |      Team 2      |
 |:-------------------------:|:-----------:|:----------------:|
 |         Omega 92          | 2 &mdash; 0 | Barming Tanks U8 |
 | Hartley de Sales U8 Colts | 0 &mdash; 3 |     Omega 92     |

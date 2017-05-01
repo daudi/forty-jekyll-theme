@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1            |    score    |        team2         |
+|           Team 1           |    Score    |        Team 2        |
 |:--------------------------:|:-----------:|:--------------------:|
 |     Iwade Herons Blues     | 1 &mdash; 0 |  Ashford United U11  |
 | Paddock Wood U11 Predators | 2 &mdash; 2 |  Iwade Herons Blues  |

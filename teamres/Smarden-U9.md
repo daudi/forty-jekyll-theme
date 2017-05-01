@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |         team2         |
+|          Team 1           |    Score    |        Team 2         |
 |:-------------------------:|:-----------:|:---------------------:|
 |      Chatham Town U9      | 0 &mdash; 1 |      Smarden U9       |
 | Maidstone United U9 Youth | 0 &mdash; 0 |      Smarden U9       |

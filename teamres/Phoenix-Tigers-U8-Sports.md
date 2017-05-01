@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |          team2           |
+|          Team 1           |    Score    |          Team 2          |
 |:-------------------------:|:-----------:|:------------------------:|
 | Phoenix Tigers U8 Sports  | 0 &mdash; 1 |   Tonbridge Junior U8    |
 | Phoenix Tigers U8 Sports  | 0 &mdash; 0 |     Barming Tanks U8     |

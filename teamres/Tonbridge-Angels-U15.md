@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|            team1            |    score    |        team2         |
+|           Team 1            |    Score    |        Team 2        |
 |:---------------------------:|:-----------:|:--------------------:|
 |      Chatham Town Boys      | 0 &mdash; 1 | Tonbridge Angels U15 |
 |       Barming Hammers       | 0 &mdash; 0 | Tonbridge Angels U15 |

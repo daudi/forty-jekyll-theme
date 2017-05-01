@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|             team1              |    score    |             team2              |
+|             Team 1             |    Score    |             Team 2             |
 |:------------------------------:|:-----------:|:------------------------------:|
 |    Paddock Wood U9 Packers     | 0 &mdash; 1 | Sittingbourne Lions U9 purples |
 |         Petts Wood U9          | 1 &mdash; 1 | Sittingbourne Lions U9 purples |

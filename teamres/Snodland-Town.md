@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1         |    score    |      team2       |
+|        Team 1         |    Score    |      Team 2      |
 |:---------------------:|:-----------:|:----------------:|
 |  Kings Hil U7 Colts   | 1 &mdash; 0 |  Snodland Town   |
 |     Snodland Town     | 1 &mdash; 0 | Barming Blues U7 |

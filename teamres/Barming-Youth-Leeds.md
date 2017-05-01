@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|        team1        |    score    |         team2          |
+|       Team 1        |    Score    |         Team 2         |
 |:-------------------:|:-----------:|:----------------------:|
 | APM Holtwood U13 A  | 1 &mdash; 0 |  Barming Youth Leeds   |
 | Barming Youth Leeds | 1 &mdash; 2 | Hartley de Sales U13 B |

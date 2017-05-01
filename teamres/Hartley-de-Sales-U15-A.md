@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|            team1            |    score    |         team2          |
+|           Team 1            |    Score    |         Team 2         |
 |:---------------------------:|:-----------:|:----------------------:|
 |       Barming Gunners       | 3 &mdash; 0 | Hartley de Sales U15 A |
 | Borough Green Juniors U15 A | 3 &mdash; 0 | Hartley de Sales U15 A |

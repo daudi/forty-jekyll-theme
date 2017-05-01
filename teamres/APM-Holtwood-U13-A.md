@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|        team1        |    score    |         team2          |
+|       Team 1        |    Score    |         Team 2         |
 |:-------------------:|:-----------:|:----------------------:|
 | APM Holtwood U13 A  | 1 &mdash; 0 |  Barming Youth Leeds   |
 | APM Holtwood U13 A  | 0 &mdash; 0 |   Loose Lions U13 A    |

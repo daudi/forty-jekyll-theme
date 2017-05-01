@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1            |    score    |        team2         |
+|           Team 1           |    Score    |        Team 2        |
 |:--------------------------:|:-----------:|:--------------------:|
 |     Ashford United U11     | 1 &mdash; 1 |  Barming Youth U11   |
 |     Iwade Herons Blues     | 1 &mdash; 0 |  Ashford United U11  |

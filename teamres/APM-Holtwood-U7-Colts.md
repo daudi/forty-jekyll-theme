@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1         |    score    |          team2          |
+|        Team 1         |    Score    |         Team 2          |
 |:---------------------:|:-----------:|:-----------------------:|
 |    Larkfield U7 FC    | 1 &mdash; 0 |  APM Holtwood U7 Colts  |
 |   Barming U7 Youth    | 1 &mdash; 0 |  APM Holtwood U7 Colts  |

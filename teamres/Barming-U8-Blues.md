@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |        team2         |
+|          Team 1           |    Score    |        Team 2        |
 |:-------------------------:|:-----------:|:--------------------:|
 |   Maidstone Kestrels U8   | 2 &mdash; 0 |   Barming U8 Blues   |
 |  APM Holtwood Rangers U8  | 1 &mdash; 0 |   Barming U8 Blues   |

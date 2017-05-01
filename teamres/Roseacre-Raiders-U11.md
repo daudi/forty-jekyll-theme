@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1            |    score    |           team2            |
+|           Team 1           |    Score    |           Team 2           |
 |:--------------------------:|:-----------:|:--------------------------:|
 | Langton Green U11 Redhawks | 2 &mdash; 0 |    Roseacre Raiders U11    |
 |     Ditton Minors U11      | 1 &mdash; 0 |    Roseacre Raiders U11    |

@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|        team1         |    score    |         team2          |
+|        Team 1        |    Score    |         Team 2         |
 |:--------------------:|:-----------:|:----------------------:|
 | Barming U11 Blues B  | 0 &mdash; 0 |     MPE U11 Sports     |
 | Barming U11 Blues B  | 0 &mdash; 1 |  Hempstead Valley U11  |

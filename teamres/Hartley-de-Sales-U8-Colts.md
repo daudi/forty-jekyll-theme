@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |           team2           |
+|          Team 1           |    Score    |          Team 2           |
 |:-------------------------:|:-----------:|:-------------------------:|
 |      Chatham Town U8      | 0 &mdash; 0 | Hartley de Sales U8 Colts |
 | Hartley de Sales U8 Colts | 0 &mdash; 3 |         Omega 92          |

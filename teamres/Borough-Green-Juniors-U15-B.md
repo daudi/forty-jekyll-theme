@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|            team1            |    score    |            team2            |
+|           Team 1            |    Score    |           Team 2            |
 |:---------------------------:|:-----------:|:---------------------------:|
 | Borough Green Juniors U15 B | 1 &mdash; 1 |      Cray Wanderers FC      |
 |   Hartley de Sales U15 B    | 0 &mdash; 2 | Borough Green Juniors U15 B |

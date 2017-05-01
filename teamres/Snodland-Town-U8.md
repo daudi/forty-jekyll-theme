@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1          |    score    |         team2         |
+|         Team 1          |    Score    |        Team 2         |
 |:-----------------------:|:-----------:|:---------------------:|
 |    Snodland Town U8     | 0 &mdash; 0 |  Hartley de Sales U8  |
 | Paddock Wood U8 Dragons | 0 &mdash; 2 |   Snodland Town U8    |

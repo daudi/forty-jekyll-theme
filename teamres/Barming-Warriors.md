@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|            team1            |    score    |        team2         |
+|           Team 1            |    Score    |        Team 2        |
 |:---------------------------:|:-----------:|:--------------------:|
 |      Barming Warriors       | 0 &mdash; 1 | Lenham Wanderers U15 |
 |     Chatham Town Youth      | 0 &mdash; 0 |   Barming Warriors   |

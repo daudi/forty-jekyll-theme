@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |           team2           |
+|          Team 1           |    Score    |          Team 2           |
 |:-------------------------:|:-----------:|:-------------------------:|
 |   Omega 92 Spartans U8    | 0 &mdash; 0 | Sittingbourne Athletic U8 |
 |   Maidstone Kestrels U8   | 0 &mdash; 0 | Sittingbourne Athletic U8 |

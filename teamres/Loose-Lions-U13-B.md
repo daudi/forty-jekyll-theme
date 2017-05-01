@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|       team1        |    score    |         team2          |
+|       Team 1       |    Score    |         Team 2         |
 |:------------------:|:-----------:|:----------------------:|
 | Loose Lions U13 B  | 1 &mdash; 0 | Barming Youth Hammers  |
 | Loose Lions U13 B  | 4 &mdash; 0 |  Barming Colts U13 X   |

@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|            team1             |    score    |         team2          |
+|            Team 1            |    Score    |         Team 2         |
 |:----------------------------:|:-----------:|:----------------------:|
 |       Iwade Herons FC        | 0 &mdash; 1 |   Ditton Minors U11B   |
 |      Ditton Minors U11B      | 0 &mdash; 0 | Paddock Wood Warriors  |

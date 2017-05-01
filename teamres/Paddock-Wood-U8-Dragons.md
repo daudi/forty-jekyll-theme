@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1          |    score    |         team2         |
+|         Team 1          |    Score    |        Team 2         |
 |:-----------------------:|:-----------:|:---------------------:|
 | Paddock Wood U8 Dragons | 1 &mdash; 0 | APM Holtwood U8 Colts |
 | Paddock Wood U8 Dragons | 0 &mdash; 2 |   Snodland Town U8    |

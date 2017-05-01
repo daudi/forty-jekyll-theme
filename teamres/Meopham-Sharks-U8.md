@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1          |    score    |         team2         |
+|         Team 1          |    Score    |        Team 2         |
 |:-----------------------:|:-----------:|:---------------------:|
 |    Meopham Sharks U8    | 2 &mdash; 1 |   Barming U8 Colts    |
 |    Meopham Sharks U8    | 1 &mdash; 0 | APM Holtwood U8 Colts |

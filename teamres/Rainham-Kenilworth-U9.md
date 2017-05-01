@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |           team2           |
+|          Team 1           |    Score    |          Team 2           |
 |:-------------------------:|:-----------:|:-------------------------:|
 |  Anchorians Athletic U9   | 0 &mdash; 2 |   Rainham Kenilworth U9   |
 |      Chatham Town U9      | 0 &mdash; 1 |   Rainham Kenilworth U9   |

@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1           |    score    |           team2           |
+|          Team 1          |    Score    |          Team 2           |
 |:------------------------:|:-----------:|:-------------------------:|
 |   Anchorians Lions U9    | 0 &mdash; 1 |   Coxheath &Farleigh U9   |
 | Paddock Wood U9 Warriors | 4 &mdash; 1 |    Anchorians Lions U9    |

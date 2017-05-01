@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |            team2             |
+|         Team 1         |    Score    |            Team 2            |
 |:----------------------:|:-----------:|:----------------------------:|
 | Tonbridge Angels U11 X | 5 &mdash; 0 |  Chatham Corinthians Colts   |
 |    Iwade Herons FC     | 0 &mdash; 4 |    Tonbridge Angels U11 X    |

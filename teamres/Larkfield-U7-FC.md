@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1          |    score    |         team2         |
+|         Team 1          |    Score    |        Team 2         |
 |:-----------------------:|:-----------:|:---------------------:|
 |     Larkfield U7 FC     | 1 &mdash; 0 | APM Holtwood U7 Colts |
 | Staplehurst Monarchs U7 | 2 &mdash; 1 |    Larkfield U7 FC    |

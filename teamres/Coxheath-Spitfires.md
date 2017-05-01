@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|        team1         |    score    |         team2          |
+|        Team 1        |    Score    |         Team 2         |
 |:--------------------:|:-----------:|:----------------------:|
 |    Kings Hill U11    | 1 &mdash; 0 |   Coxheath Spitfires   |
 | Range Rovers FC U11s | 1 &mdash; 1 |   Coxheath Spitfires   |

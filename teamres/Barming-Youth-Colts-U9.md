@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|             team1              |    score    |         team2          |
+|             Team 1             |    Score    |         Team 2         |
 |:------------------------------:|:-----------:|:----------------------:|
 |     Barming Youth Colts U9     | 2 &mdash; 0 |      Larkfield FC      |
 |     Barming Youth Colts U9     | 1 &mdash; 0 |     Petts Wood U9      |

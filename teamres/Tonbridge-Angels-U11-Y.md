@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |         team2          |
+|         Team 1         |    Score    |         Team 2         |
 |:----------------------:|:-----------:|:----------------------:|
 | Tonbridge Angels U11 Y | 1 &mdash; 3 |  Hempstead Valley U11  |
 | Tonbridge Angels U11 Y | 3 &mdash; 0 |     Kings Hill U11     |

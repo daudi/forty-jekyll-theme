@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |        team2         |
+|         Team 1         |    Score    |        Team 2        |
 |:----------------------:|:-----------:|:--------------------:|
 | Tonbridge Angels U11 Y | 1 &mdash; 3 | Hempstead Valley U11 |
 |  Barming U11 Blues B   | 0 &mdash; 1 | Hempstead Valley U11 |

@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1            |    score    |           team2            |
+|           Team 1           |    Score    |           Team 2           |
 |:--------------------------:|:-----------:|:--------------------------:|
 | Langton Green U11 Redhawks | 2 &mdash; 0 |    Roseacre Raiders U11    |
 | Langton Green U11 Redhawks | 0 &mdash; 1 |     Barming Youth U11      |

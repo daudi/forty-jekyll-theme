@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |         team2          |
+|         Team 1         |    Score    |         Team 2         |
 |:----------------------:|:-----------:|:----------------------:|
 |  Aylesford Royals U13  | 0 &mdash; 0 | Hartley de Sales U13 B |
 |  Barming Youth Leeds   | 1 &mdash; 2 | Hartley de Sales U13 B |

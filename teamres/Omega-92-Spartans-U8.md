@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|          team1          |    score    |           team2           |
+|         Team 1          |    Score    |          Team 2           |
 |:-----------------------:|:-----------:|:-------------------------:|
 |  Omega 92 Spartans U8   | 0 &mdash; 0 | Sittingbourne Athletic U8 |
 |  Chatham Town U8 (CW)   | 0 &mdash; 9 |   Omega 92 Spartans U8    |

@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1         |    score    |         team2          |
+|        Team 1         |    Score    |         Team 2         |
 |:---------------------:|:-----------:|:----------------------:|
 |     Leybourne FC      | 0 &mdash; 1 |  Barming Colts U13 X   |
 |     Leybourne FC      | 0 &mdash; 4 |   APM Holtwood U13 B   |

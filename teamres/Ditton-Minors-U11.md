@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|       team1       |    score    |           team2            |
+|      Team 1       |    Score    |           Team 2           |
 |:-----------------:|:-----------:|:--------------------------:|
 | Ditton Minors U11 | 1 &mdash; 1 | Paddock Wood U11 Predators |
 | Ditton Minors U11 | 1 &mdash; 0 |    Roseacre Raiders U11    |

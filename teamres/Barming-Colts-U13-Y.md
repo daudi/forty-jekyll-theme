@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|        team1         |    score    |         team2          |
+|        Team 1        |    Score    |         Team 2         |
 |:--------------------:|:-----------:|:----------------------:|
 |      Vinters FC      | 3 &mdash; 0 |  Barming Colts U13 Y   |
 |  Loose Lions U13 A   | 1 &mdash; 1 |  Barming Colts U13 Y   |

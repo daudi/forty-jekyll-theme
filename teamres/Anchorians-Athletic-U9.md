@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |           team2           |
+|         Team 1         |    Score    |          Team 2           |
 |:----------------------:|:-----------:|:-------------------------:|
 | Anchorians Athletic U9 | 0 &mdash; 2 |   Rainham Kenilworth U9   |
 | Anchorians Athletic U9 | 3 &mdash; 0 | Paddock Wood U9 Wanderers |

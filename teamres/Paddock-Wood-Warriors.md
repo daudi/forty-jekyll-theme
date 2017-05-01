@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |            team2             |
+|          Team 1           |    Score    |            Team 2            |
 |:-------------------------:|:-----------:|:----------------------------:|
 |    Ditton Minors U11B     | 0 &mdash; 0 |    Paddock Wood Warriors     |
 |    Barming U11 Blues A    | 0 &mdash; 2 |    Paddock Wood Warriors     |

@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |           team2           |
+|          Team 1           |    Score    |          Team 2           |
 |:-------------------------:|:-----------:|:-------------------------:|
 | Paddock Wood U9 Wanderers | 0 &mdash; 5 | Maidstone United U9 Youth |
 |  Anchorians Athletic U9   | 3 &mdash; 0 | Paddock Wood U9 Wanderers |

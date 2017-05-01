@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |           team2           |
+|          Team 1           |    Score    |          Team 2           |
 |:-------------------------:|:-----------:|:-------------------------:|
 | Paddock Wood U9 Wanderers | 0 &mdash; 5 | Maidstone United U9 Youth |
 | Maidstone United U9 Youth | 0 &mdash; 0 |        Smarden U9         |

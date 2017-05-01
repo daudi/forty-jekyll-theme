@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|         team1          |    score    |        team2         |
+|         Team 1         |    Score    |        Team 2        |
 |:----------------------:|:-----------:|:--------------------:|
 |     Kings Hill U11     | 1 &mdash; 0 |  Coxheath Spitfires  |
 | Tonbridge Angels U11 Y | 3 &mdash; 0 |    Kings Hill U11    |

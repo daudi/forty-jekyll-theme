@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|           team1           |    score    |            team2             |
+|          Team 1           |    Score    |            Team 2            |
 |:-------------------------:|:-----------:|:----------------------------:|
 |  Tonbridge Angels U11 X   | 5 &mdash; 0 |  Chatham Corinthians Colts   |
 | Chatham Corinthians Colts | 0 &mdash; 1 | Maidstone United U11 Rangers |

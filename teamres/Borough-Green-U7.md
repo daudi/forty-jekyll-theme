@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|      team1       |    score    |            team2            |
+|      Team 1      |    Score    |           Team 2            |
 |:----------------:|:-----------:|:---------------------------:|
 | Borough Green U7 | 0 &mdash; 0 |    Larkfield U7 Juniors     |
 | Borough Green U7 | 0 &mdash; 0 |        Thamesview U7        |

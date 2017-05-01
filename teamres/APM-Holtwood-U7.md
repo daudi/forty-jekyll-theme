@@ -7,7 +7,7 @@ exclude: true
 
 
 
-|       team1        |    score    |         team2         |
+|       Team 1       |    Score    |        Team 2         |
 |:------------------:|:-----------:|:---------------------:|
 |  APM Holtwood U7   | 1 &mdash; 3 |   Barming Blues U7    |
 | Kings Hil U7 Colts | 0 &mdash; 1 |    APM Holtwood U7    |
