@@ -2,7 +2,7 @@
 layout: post
 title: Comments and feedback
 description: Let's us know what you think about our tournament
-image: assets/images/pic05.jpg
+image: https://drive.google.com/open?id=0B1cbuv4IxxadVzlVdzFLTXVBTEk
 ---
 
 Please let us know what you think about our tournament, what we got right, and how we could do better. Please see the various options for contacting us below: Twitter, Facebook, email, letter or you can use the form below. There's a lot involved in running a tournament and here are some major issues to consider:
